@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Padding
+Comment=Transparent fixed-width applet
+
+Encoding=UTF-8
+Icon=preferences-desktop
+Keyword=padding width static
+Type=Service
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=Tarik02
+X-KDE-PluginInfo-Category=Windows and Tasks
+X-KDE-PluginInfo-Email=Taras.Fomin@gmail.com
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-Name=com.tarik02.padding
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-Website=https://github.com/Tarik02/applet-padding
+X-KDE-ServiceTypes=Plasma/Applet
